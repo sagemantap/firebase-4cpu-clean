@@ -1,0 +1,4 @@
+{
+  "name": "Firebase 4CPU Workspace",
+  "postCreateCommand": "./start.sh"
+}
